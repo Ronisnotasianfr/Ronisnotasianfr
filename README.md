@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronisnotasianfr&show_icons=true&theme=radical)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronisnotasianfr&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Rohan Saindane</h1>
 <h3 align="center">A passionate software developer from USA</h3>
 
