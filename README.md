@@ -1,22 +1,15 @@
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronisnotasianfr&show_icons=true&theme=radical)
-<h1 align="center">Hi 👋, I'm Rohan Saindane</h1>
-<h3 align="center">A passionate software developer from USA</h3>
+# 💫 About Me:
+🔭 I’m currently working on ColoGrowth-ML, a machine learning project for plant growth prediction, and a research project exploring poker through statistics, game theory, and artificial intelligence.<br>👯 I’m looking to collaborate on machine learning, data science, educational technology, and algorithmic game theory projects.<br>🤝 I’m looking for help with ML model optimization, research methodology, and deploying scalable AI applications.<br>🌱 I’m currently learning machine learning, statistical modeling, game theory, reinforcement learning, and full-stack development with React and Supabase.<br>💬 Ask me about machine learning, probability, poker AI, web development, Discord community management, and student-led tech initiatives.<br>⚡ Fun fact: I combine machine learning and game theory to analyze poker strategy, and I've built applications and communities used by hundreds of students.
 
-- 🔭 I’m currently working on [a school club website](In Design)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ronisnotasianfr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ronisnotasianfr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ronisnotasianfr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **Vite TypeScript React shadcn-ui Tailwind CSS**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🤝 I’m looking for help with **SQL and Databases**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ronisnotasianfr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about **HTML, CSS , Java , JS , Coding Problems**
-
-- 📫 How to reach me **ronsaindane5917@gmail.com**
-
-- ⚡ Fun fact **I have worked on buildspace and UMD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
